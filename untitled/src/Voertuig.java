@@ -9,4 +9,6 @@ public class Voertuig {
 
     public int test;
 
+    private int teeeeeeeeeeeeest;
+
 }
