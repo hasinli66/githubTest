@@ -5,5 +5,5 @@ public class Voertuig {
 
     public String thisisatest;
     public String thisisatest1;
-    public String thisisatest2;
+
 }
