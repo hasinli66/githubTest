@@ -6,4 +6,7 @@ public class Voertuig {
     public String thisisatest;
     public String thisisatest1;
 
+
+    public int test;
+
 }
