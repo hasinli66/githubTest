@@ -3,4 +3,5 @@ public class Voertuig {
     public int bouwjaar;
     public String merk;
 
+    public String thisisatest;
 }
